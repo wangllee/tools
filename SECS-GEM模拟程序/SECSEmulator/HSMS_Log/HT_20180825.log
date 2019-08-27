@@ -1,0 +1,807 @@
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+11:10:54.043: Send S1F1(669655188).
+00 00 81 01 00 00 27 EA 20 94 
+S1F1 W
+.
+11:11:04.269: Send S1F3(669655188).
+00 00 81 03 00 00 27 EA 20 94   01 09 B1 04 00 01 86 A1 B1 04   
+00 00 07 D2 B1 04 00 00 07 D3   B1 04 00 00 00 03 B1 04 00 00   
+07 D1 B1 04 00 00 07 D4 B1 04   00 00 00 27 B1 04 00 00 00 28   
+B1 04 00 00 00 29 
+S1F3 W
+<L[9]
+  <U4[1] 100001>
+  <U4[1] 2002>
+  <U4[1] 2003>
+  <U4[1] 3>
+  <U4[1] 2001>
+  <U4[1] 2004>
+  <U4[1] 39>
+  <U4[1] 40>
+  <U4[1] 41>
+>
+.
+11:11:39.106: Send S1F1(669655189).
+00 00 81 01 00 00 27 EA 20 95 
+S1F1 W
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+11:15:16.693: Send S1F1(669923329).
+00 01 81 01 00 00 27 EE 38 01 
+S1F1 W
+.
+11:16:40.444: Send S1F1(669923330).
+00 01 81 01 00 00 27 EE 38 02 
+S1F1 W
+.
+11:17:07.914: Send S1F1(669923330).
+00 01 81 01 00 00 27 EE 38 02 
+S1F1 W
+.
+11:18:50.746: Send S1F1(669923330).
+00 01 81 01 00 00 27 EE 38 02 
+S1F1 W
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+11:21:58.625: Send S1F1(670301766).
+00 0B 81 01 00 00 27 F3 FE 46 
+S1F1 W
+.
+11:22:08.978: Send S1F3(670301766).
+00 0B 81 03 00 00 27 F3 FE 46   01 09 B1 04 00 01 86 A1 B1 04   
+00 00 07 D2 B1 04 00 00 07 D3   B1 04 00 00 00 03 B1 04 00 00   
+07 D1 B1 04 00 00 07 D4 B1 04   00 00 00 27 B1 04 00 00 00 28   
+B1 04 00 00 00 29 
+S1F3 W
+<L[9]
+  <U4[1] 100001>
+  <U4[1] 2002>
+  <U4[1] 2003>
+  <U4[1] 3>
+  <U4[1] 2001>
+  <U4[1] 2004>
+  <U4[1] 39>
+  <U4[1] 40>
+  <U4[1] 41>
+>
+.
+11:22:38.482: Send S1F1(670301767).
+00 0B 81 01 00 00 27 F3 FE 47 
+S1F1 W
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+Remote Server Disconnected!
+HSMS Communication Disconnected!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+11:29:50.105: Receive S1F13(0).
+00 00 81 0D 00 00 00 00 00 00   01 02 41 04 4D 44 4C 4E 41 07   
+53 4F 46 54 52 45 56 
+S1F13 W
+<L[2]
+  <A[4] "MDLN">
+  <A[7] "SOFTREV">
+>
+.
+11:29:50.115: Send S1F14(0).
+00 00 01 0E 00 00 00 00 00 00   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+11:29:51.259: Send S1F1(670799283).
+00 00 81 01 00 00 27 FB 95 B3 
+S1F1 W
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+13:53:19.724: Send S1F11(679380594).
+00 00 81 0B 00 00 28 7E 86 72   01 02 B1 04 00 00 07 D2 B1 04   
+00 00 07 D3 
+S1F11 W
+<L[2]
+  <U4[1] 2002>
+  <U4[1] 2003>
+>
+.
+13:53:30.903: Receive S1F12(679380594).
+00 00 01 0C 00 00 28 7E 86 72   01 00 
+S1F12
+<L[0]
+>
+.
+13:53:53.340: Send S1F1(679380596).
+00 00 81 01 00 00 28 7E 86 74 
+S1F1 W
+.
+13:53:54.708: Receive S1F2(679380596).
+00 00 01 02 00 00 28 7E 86 74   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+13:54:47.939: Send S1F1(679495797).
+00 00 81 01 00 00 28 80 48 75 
+S1F1 W
+.
+13:54:49.321: Receive S1F2(679495797).
+00 00 01 02 00 00 28 80 48 75   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+Remote Server Disconnected!
+HSMS Communication Disconnected!
+Remote Server Disconnected!
+HSMS Communication Disconnected!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:26:29.427: Send S1F3(681395266).
+00 00 81 03 00 00 28 9D 44 42   B1 0C 00 01 86 A1 00 00 07 D2   
+00 00 07 D3 
+S1F3 W
+<U4[3] 100001 2002 2003>
+.
+14:26:29.455: Receive S1F4(681395266).
+00 00 01 04 00 00 28 9D 44 42   01 00 
+S1F4
+<L[0]
+>
+.
+14:26:40.674: Send S1F1(681395267).
+00 00 81 01 00 00 28 9D 44 43 
+S1F1 W
+.
+14:26:40.694: Receive S1F2(681395267).
+00 00 01 02 00 00 28 9D 44 43   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:28:07.612: Send S1F1(681500985).
+00 00 81 01 00 00 28 9E E1 39 
+S1F1 W
+.
+14:28:07.634: Receive S1F2(681500985).
+00 00 01 02 00 00 28 9E E1 39   01 00 
+S1F2
+<L[0]
+>
+.
+14:28:12.498: Send S1F1(681500986).
+00 00 81 01 00 00 28 9E E1 3A 
+S1F1 W
+.
+14:28:12.523: Receive S1F2(681500986).
+00 00 01 02 00 00 28 9E E1 3A   01 00 
+S1F2
+<L[0]
+>
+.
+14:28:14.977: Send S1F1(681500987).
+00 00 81 01 00 00 28 9E E1 3B 
+S1F1 W
+.
+14:28:14.997: Receive S1F2(681500987).
+00 00 01 02 00 00 28 9E E1 3B   01 00 
+S1F2
+<L[0]
+>
+.
+14:28:16.538: Send S1F1(681500988).
+00 00 81 01 00 00 28 9E E1 3C 
+S1F1 W
+.
+14:28:16.566: Receive S1F2(681500988).
+00 00 01 02 00 00 28 9E E1 3C   01 00 
+S1F2
+<L[0]
+>
+.
+14:28:17.978: Send S1F1(681500989).
+00 00 81 01 00 00 28 9E E1 3D 
+S1F1 W
+.
+14:28:17.997: Receive S1F2(681500989).
+00 00 01 02 00 00 28 9E E1 3D   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:29:18.586: Send S1F1(681566688).
+00 00 81 01 00 00 28 9F E1 E0 
+S1F1 W
+.
+14:29:18.607: Receive S1F2(681566688).
+00 00 01 02 00 00 28 9F E1 E0   01 00 
+S1F2
+<L[0]
+>
+.
+14:29:20.267: Send S1F1(681566689).
+00 00 81 01 00 00 28 9F E1 E1 
+S1F1 W
+.
+14:29:20.282: Receive S1F2(681566689).
+00 00 01 02 00 00 28 9F E1 E1   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:36:52.669: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:36:52.705: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+14:37:04.921: Send S1F1(682029720).
+00 00 81 01 00 00 28 A6 F2 98 
+S1F1 W
+.
+14:37:04.943: Receive S1F2(682029720).
+00 00 01 02 00 00 28 A6 F2 98   01 00 
+S1F2
+<L[0]
+>
+.
+14:37:09.026: Send S1F1(682029721).
+00 00 81 01 00 00 28 A6 F2 99 
+S1F1 W
+.
+14:37:09.048: Receive S1F2(682029721).
+00 00 01 02 00 00 28 A6 F2 99   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:44:32.464: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:44:32.500: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:45:53.223: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:45:53.252: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:46:53.166: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:46:53.197: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:50:14.358: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:50:14.405: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:50:38.086: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:50:38.112: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:52:34.270: Receive S1F13(7339).
+FF FF 81 0D 00 00 00 00 1C AB   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:52:34.300: Send S1F14(7339).
+00 00 01 0E 00 00 00 00 1C AB   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+14:52:39.745: Send S1F3(682973455).
+00 00 81 03 00 00 28 B5 59 0F   B1 0C 00 01 86 A1 00 00 07 D2   
+00 00 07 D3 
+S1F3 W
+<U4[3] 100001 2002 2003>
+.
+14:52:50.524: Send S1F1(682973456).
+00 00 81 01 00 00 28 B5 59 10 
+S1F1 W
+.
+14:52:53.321: Send S1F1(682973457).
+00 00 81 01 00 00 28 B5 59 11 
+S1F1 W
+.
+14:52:55.296: Send S1F1(682973458).
+00 00 81 01 00 00 28 B5 59 12 
+S1F1 W
+.
+14:52:57.434: Send S1F1(682973459).
+00 00 81 01 00 00 28 B5 59 13 
+S1F1 W
+.
+14:53:12.074: Send S1F1(682973460).
+00 00 81 01 00 00 28 B5 59 14 
+S1F1 W
+.
+14:53:24.772: T3 Timeout(682973455).
+14:53:35.552: T3 Timeout(682973456).
+14:53:38.341: T3 Timeout(682973457).
+14:52:34.270: Receive S1F13(7339).
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:54:08.801: Receive S1F13(7340).
+FF FF 81 0D 00 00 00 00 1C AC   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:54:08.830: Send S1F14(7340).
+00 00 01 0E 00 00 00 00 1C AC   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+14:54:33.944: Send S1F1(683067127).
+00 00 81 01 00 00 28 B6 C6 F7 
+S1F1 W
+.
+14:54:08.801: Receive S1F13(7340).
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:56:42.998: Receive S1F13(7339).
+FF FF 81 0D 00 00 00 00 1C AB   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:56:43.042: Send S1F14(7339).
+00 00 01 0E 00 00 00 00 1C AB   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+Remote Server Disconnected!
+HSMS Communication Disconnected!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+14:57:35.756: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+14:57:35.762: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+14:57:50.693: Send S1F1(683272423).
+00 00 81 01 00 00 28 B9 E8 E7 
+S1F1 W
+.
+14:57:52.942: Receive S1F2(683272423).
+00 00 01 02 00 00 28 B9 E8 E7   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+15:00:45.566: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+15:00:45.572: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+15:02:46.725: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+15:02:46.734: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+15:04:29.481: Send S1F1(683585909).
+00 00 81 01 00 00 28 BE B1 75 
+S1F1 W
+.
+15:04:29.490: Receive S1F2(683585909).
+00 00 01 02 00 00 28 BE B1 75   01 00 
+S1F2
+<L[0]
+>
+.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+15:51:12.488: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+15:51:12.494: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+15:51:17.924: Send S1F1(686491658).
+00 00 81 01 00 00 28 EB 08 0A 
+S1F1 W
+.
+15:51:17.932: Receive S1F2(686491658).
+00 00 01 02 00 00 28 EB 08 0A   01 00 
+S1F2
+<L[0]
+>
+.
+15:51:43.463: Send S1F11(686491659).
+00 00 81 0B 00 00 28 EB 08 0B   01 02 B1 04 00 00 07 D2 B1 04   
+00 00 07 D3 
+S1F11 W
+<L[2]
+  <U4[1] 2002>
+  <U4[1] 2003>
+>
+.
+15:51:43.479: Receive S1F12(686491659).
+00 00 01 0C 00 00 28 EB 08 0B   01 00 
+S1F12
+<L[0]
+>
+.
+15:51:46.590: Send S1F3(686491660).
+00 00 81 03 00 00 28 EB 08 0C   B1 04 00 00 0F A0 
+S1F3 W
+<U4[1] 4000>
+.
+15:51:46.598: Receive S1F4(686491660).
+00 00 01 04 00 00 28 EB 08 0C   01 00 
+S1F4
+<L[0]
+>
+.
+15:52:12.462: Receive Linktest.rsp.
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+15:56:07.165: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+15:56:07.180: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+15:56:15.753: Send S1F3(686786345).
+00 00 81 03 00 00 28 EF 87 29   01 02 B1 04 00 00 27 0F B1 04   
+00 00 07 D2 
+S1F3 W
+<L[2]
+  <U4[1] 9999>
+  <U4[1] 2002>
+>
+.
+15:56:15.770: Receive S1F4(686786345).
+00 00 01 04 00 00 28 EF 87 29   01 00 
+S1F4
+<L[0]
+>
+.
+16:01:28.575: Receive S1F3(7339).
+FF FF 81 03 00 00 00 00 1C AB   01 02 B1 04 00 00 27 0F B1 04   
+00 00 07 D2 
+S1F3 W
+<L[2]
+  <U4[1] 9999>
+  <U4[1] 2002>
+>
+.
+16:01:57.257: Send S1F4(7339).
+00 00 01 04 00 00 00 00 1C AB   01 00 
+S1F4
+<L[0]
+>
+.
+Remote Server Disconnected!
+HSMS Communication Disconnected!
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+16:13:43.820: Receive S1F13(7338).
+FF FF 81 0D 00 00 00 00 1C AA   01 00 
+S1F13 W
+<L[0]
+>
+.
+16:13:43.835: Send S1F14(7338).
+00 00 01 0E 00 00 00 00 1C AA   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+16:13:50.242: Send S1F3(687843002).
+00 00 81 03 00 00 28 FF A6 BA   01 02 B1 04 00 00 27 0F B1 04   
+00 00 07 D2 
+S1F3 W
+<L[2]
+  <U4[1] 9999>
+  <U4[1] 2002>
+>
+.
+16:13:50.293: Receive S1F4(687843002).
+00 00 01 04 00 00 28 FF A6 BA   01 00 
+S1F4
+<L[0]
+>
+.
+16:14:03.494: Receive S1F3(7339).
+00 00 81 03 00 00 00 00 1C AB   01 02 B1 04 00 00 27 0F B1 04   
+00 00 07 D2 
+S1F3 W
+<L[2]
+  <U4[1] 9999>
+  <U4[1] 2002>
+>
+.
+16:14:03.494: Receive S1F3(7339).
+HSMS Communication Disconnected!
+SECS Emulator v1.5  2001/09/05
+HSMS Communication Started!
+16:15:27.117: Receive S1F13(7340).
+FF FF 81 0D 00 00 00 00 1C AC   01 00 
+S1F13 W
+<L[0]
+>
+.
+16:15:27.156: Send S1F14(7340).
+00 00 01 0E 00 00 00 00 1C AC   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+16:15:29.855: Send S1F1(687946283).
+00 00 81 01 00 00 29 01 3A 2B 
+S1F1 W
+.
+16:15:29.874: Receive S1F2(687946283).
+00 00 01 02 00 00 29 01 3A 2B   01 00 
+S1F2
+<L[0]
+>
+.
+16:15:35.594: Receive S1F14(7341).
+00 00 01 0E 00 00 00 00 1C AD   01 02 21 01 00 01 00 
+S1F14
+<L[2]
+  <B[1] 0x00>
+  <L[0]
+  >
+>
+.
+Remote Server Disconnected!
+HSMS Communication Disconnected!
+HSMS Communication Disconnected!
